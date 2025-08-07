@@ -22,8 +22,8 @@ The Inventory Service is a Node.js application that manages inventory data using
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/inventory-service.git
-   cd inventory-service
+   git clone https://github.com/kkthecoder/inventory-service-rabbitmq.git
+   cd inventory-service-rabbitmq
 
    ```
 
