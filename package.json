@@ -1,0 +1,19 @@
+{
+  "name": "inventory-service-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "populate-inventory": "node scripts/populateInventory.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "amqplib": "^0.10.8",
+    "mongodb": "^6.18.0",
+    "winston": "^3.17.0"
+  }
+}
